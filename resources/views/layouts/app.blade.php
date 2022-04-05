@@ -5,7 +5,7 @@
       <meta name="description" content="Willy Wonkas - Personal Portfolio Website Template" />
   	<meta name="keywords" content="blog, business card, creative, creative portfolio, cv theme, online resume, personal, portfolio, professional cv, responsive portfolio, resume, resume theme, vcard" />
   	<meta name="author" content="willy wonka" />
-      <title>@yield(NSA WEB - 'title')</title>
+      <title>NSA WEB - @yield('title')</title>
     <!--favicon-img-->
      <link rel="icon" type="image/png" href="{{asset('images/favicon.png')}}">
      <!--favicon-img-->
@@ -21,7 +21,7 @@
     <!--mouse  follower-->
     <!--loader-->
         <div id="loader">
-            <span class="color">Arlo</span>Brown
+            <span class="color">NSA</span>WEB
         </div>
     <!--loader-end-->
     <!--link-screen-->

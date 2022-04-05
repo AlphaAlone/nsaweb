@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Inicio')
+
 @section('content')
 
 <!--Header-->
@@ -16,10 +18,10 @@
   <!--Social Media Links end-->
   <div class="header-content">
       <div class="header-content-box">
-      <div class="firstline"><span class="color">Arlo </span>Brown</div>
+      <div class="firstline"><span class="color">NSA </span>WEB</div>
       <div class="secondline">
-      I'm a
-  <span class="txt-rotate color" data-period="1200"data-rotate='[ " Designer.", " Blogger.", " Freelancer." ]'></span>
+      Tu ventana
+  <span class="txt-rotate color" data-period="1200"data-rotate='[ " Al Cosmos.", " Las Estrellas.", " El Universo." ]'></span>
   <span class="slash">|</span>
 </div>
           <div class="contact">
