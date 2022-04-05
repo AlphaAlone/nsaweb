@@ -1,4 +1,7 @@
-<div id="contact">
+@extends('layouts.app')
+
+@section('content')
+<!-- <div id="contact"> -->
    <div class="color-changer">
        <div class="color-panel">
            <img src="images/gear.png" alt="">
@@ -88,11 +91,6 @@
        <!--Contact information end-->
       </div>
    </div>
-               <!--copyright-section You Can Remove After Downloading-->
-               <div class="footer">
-                   <div class="footer-text">
-                       <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
-                   </div>
-                  </div>
-          <!--copyright-section-->
-</div>
+<!-- </div> -->
+   <!--contact end-->
+@endsection
