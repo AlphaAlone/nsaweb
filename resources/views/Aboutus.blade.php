@@ -36,8 +36,8 @@
 <!--about content-->
 <div id="about-content">
     <div class="about-header">
-        About <span class="color">Me</span>
-        <span class ="header-caption">Get to Know <span class="color"> me.</span></span>
+        Sovbre <span class="color">Nosotros</span>
+        <span class ="header-caption">Conoce nuestra <span class="color"> Historia.</span></span>
     </div>
     <div class="about-main">
 <div class="about-first-paragraph wow">
