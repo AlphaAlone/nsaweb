@@ -36,21 +36,19 @@
 <!--about content-->
 <div id="about-content">
     <div class="about-header">
-        Sovbre <span class="color">Nosotros</span>
+        Sobre <span class="color">Nosotros</span>
         <span class ="header-caption">Conoce nuestra <span class="color"> Historia.</span></span>
     </div>
     <div class="about-main">
 <div class="about-first-paragraph wow">
 <!--about description-->
    <span class="about-first-line">
-        I'm creative
-        <span class="color">web developer</span>
-         based in New York , USA </span>
+        NASA
+        <span class="color">History</span>
+         </span>
          <br>
-   <span class="about-second-line"> With 20 years of experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step while working.</span>
-   <div class="cv">
-    <a href="#"><button>Download <span class="colors">CV</span></button></a>
-</div>
+   <span class="about-second-line">La Ley Nacional de Aeronáutica y del Espacio de 1958 (Pub.L. 85-568) creó la Administración Nacional de Aeronáutica y del Espacio (NASA). La sección 20112 (a)(3) de la Ley ordena a la NASA "que proporcione la difusión más amplia posible y adecuada de información sobre las actividades de la NASA y los resultados de las mismas". El intercambio de información y nuestra historia siempre ha sido y sigue siendo una prioridad.</span>
+
 </div>
 <!--about picture-->
 <div class="about-img">
@@ -93,7 +91,7 @@
         </div>
 <!--services header-->
         <div class="services-heading wow">
-            <span class="color">My</span> Services
+            <span class="color">FILO</span>SOFIA
         </div>
 <!--services header end-->
 <!--services content-->
@@ -103,8 +101,8 @@
                    <img src="images/coding.png" alt="service-one">
                    </div>
                    <div class="service-description">
-                    <h2>Web Designing</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam possimus</p>
+                    <h2>Mision</h2>
+                    <p>Liderar un programa de exploración innovador y sostenible con socios comerciales e internacionales para permitir la expansión humana en todo el sistema solar y traer nuevos conocimientos y oportunidades a la Tierra.</p>
                    </div>
                </div>
                <div class="service-two service wow">
@@ -112,8 +110,8 @@
                    <img src="images/instagram.png" alt="service-two">
                    </div>
                    <div class="service-description">
-                    <h2>Social Media</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam possimus</p>
+                    <h2>Valores</h2>
+                    <p>Compartimos un conjunto de valores fundamentales: seguridad, integridad, trabajo en equipo, excelencia, inclusión, y son evidentes en todo lo que hacemos.</p>
                    </div>
                </div>
                <div class="service-three service wow">
@@ -121,15 +119,15 @@
                    <img src="images/bulb.png" alt="service-three">
                 </div>
                 <div class="service-description">
-                    <h2>Creative Design</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam possimus</p>
+                    <h2>Valores</h2>
+                    <p>Descubrir y expandir el conocimiento en beneficio de la humanidad.</p>
                 </div>
             </div>
         </div>
 </div>
 <!--services content end-->
 <!--services end-->
-<div id="skills">
+<!-- <div id="skills">
     <div class="skills-header">
          My <span class="color"> Skills</span>
     </div>
@@ -195,6 +193,6 @@
         </div>
         </div>
     </div>
-</div>
+</div> -->
 
 @endsection
