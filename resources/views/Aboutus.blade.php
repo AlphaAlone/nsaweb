@@ -127,72 +127,30 @@
 </div>
 <!--services content end-->
 <!--services end-->
-<!-- <div id="skills">
+<div id="skills">
     <div class="skills-header">
-         My <span class="color"> Skills</span>
+         NASA <span class="color"> Proximos eventos </span>
     </div>
-    <div class="skills-content " style="text-align: center;">
-        <div class="skill-html skill">
-            <div class="skill-text">
-        <div class="html">
-            HTML/CSS
-        </div>
-            </div>
-        <div class="html-prog wow prog">
-     <div class="html-progress wow">95%</div>
-        </div>
-        </div>
-        <div class="skill-html skill">
-            <div class="skill-text">
-        <div class="html">
-          Javascript
-        </div>
-            </div>
-        <div class="html-prog wow prog">
-     <div class="js-progress wow">90%</div>
-        </div>
-        </div>
-        <div class="skill-html skill">
-            <div class="skill-text">
-        <div class="html">
-            Adobe Ps
-        </div>
-            </div>
-        <div class="html-prog wow prog">
-     <div class="adobe-progress wow">83%</div>
-        </div>
-        </div>
-        <div class="skill-html skill">
-            <div class="skill-text">
-        <div class="html">
-            PHP
-        </div>
-            </div>
-        <div class="html-prog wow prog">
-     <div class="php-progress wow">87%</div>
-        </div>
-        </div>
-        <div class="skill-html skill">
-            <div class="skill-text">
-        <div class="html">
-            JQuery
-        </div>
-            </div>
-        <div class="html-prog wow prog">
-     <div class="jquery-progress wow">94%</div>
-        </div>
-        </div>
-        <div class="skill-html skill">
-            <div class="skill-text">
-        <div class="html">
-            SEO
-        </div>
-            </div>
-        <div class="html-prog wow prog">
-     <div class="seo-progress wow">84%</div>
-        </div>
-        </div>
+    <div class="service-description">
+     <h2>8 de abril, viernes</h2>
+     <p>10:15 a. m. – Cobertura del lanzamiento de SpaceX/Axiom-1 en Crew Dragon Endeavour a la Estación Espacial Internacional. Lanzamiento programado a las 11:17 a. m. EDT – Centro Espacial Kennedy/Centro Espacial Johnson a través de Hawthorne, California (Todos los canales)</p>
     </div>
-</div> -->
+    <div class="service-description">
+     <h2>9 de abril, sábado</h2>
+     <p>5:30 a. m.: cobertura de la ceremonia de encuentro, acoplamiento, apertura de la escotilla y bienvenida de la tripulación del Axiom-1 en la Estación Espacial Internacional. Atraque programado a las 6:45 a. m. EDT; la apertura de la escotilla está programada para las 9:30 a. m. EDT; ceremonia de bienvenida programada para las 10:05 a. m. EDT (todos los canales)</p>
+    </div>
+    <div class="service-description">
+     <h2>15 de abril, viernes</h2>
+     <p>10 a. m. – Conferencia de prensa en órbita de la Tripulación 3 de la Estación Espacial Internacional (todos los canales)</p>
+    </div>
+    <div class="service-description">
+     <h2>8 de abril, viernes</h2>
+     <p>10:15 a. m. – Cobertura del lanzamiento de SpaceX/Axiom-1 en Crew Dragon Endeavour a la Estación Espacial Internacional. Lanzamiento programado a las 11:17 a. m. EDT – Centro Espacial Kennedy/Centro Espacial Johnson a través de Hawthorne, California (Todos los canales)</p>
+    </div>
+    <div class="service-description">
+     <h2>18 de abril, lunes</h2>
+     <p>10 a. m. – Paseo espacial ruso 52 de la Estación Espacial Internacional (Artemyev y Matveev; el paseo espacial comienza a las 10:25 a. m. EDT) (Todos los canales)</p>
+    </div>
+</div>
 
 @endsection
