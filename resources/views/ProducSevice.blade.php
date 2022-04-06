@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Productos')
+
 @section('content')
 <!-- <div id="blog"> -->
     <div class="color-changer">

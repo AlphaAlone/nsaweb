@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Sobre nosotros')
+
 @section('content')
 <div class="color-changer">
 <div class="color-panel">
