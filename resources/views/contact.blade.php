@@ -40,14 +40,17 @@
             <div class="form-header">
                 Message Me
             </div>
-            <form id="myForm" action="#">
+            <form id="myForm" action="{{ route('send.email') }}" method="POST">
+                @csrf
                <div class="input-line">
-                   <input  id="name" type="text" placeholder="Name" class="input-name">
-                   <input id="email" type="email" placeholder="Email"  class="input-name">
+                   <input  id="name" type="text" placeholder="Name" name="name" class="input-name">
+                   <input id="email" type="email" placeholder="Email" name="email" class="input-name">
                </div>
-               <input type="text" id="subject" placeholder="subject" class="input-subject">
-               <textarea id ="body" class="input-textarea" placeholder="message"></textarea>
-               <button type="button" id ="submit" value="send">Submit</button>
+               <input type="text" id="subject" placeholder="subject" name="text" class="input-subject">
+               <textarea id ="body" name="body" class="input-textarea" placeholder="message"></textarea>
+               <button input type="submit" value="send">Submit</button>
+               <!-- <input type="submit" value="Mandar Mensaje" class="btn btn-primary"> -->
+
             </form>
 
         </div>
