@@ -35,8 +35,8 @@
         </div>
         </div>
 
-<div class="blog-header"> Blogs</span>
-    <span class ="header-caption"> My Latest <span class="color"> blog posts.</span></span></div>
+<div class="blog-header"> productos y servicios</span>
+    <span class ="header-caption"> Revisa nuestros <span class="color"> productos y servicios.</span></span></div>
     <div class="blog-content" id="contenedor">
          <!-- <div class="blogs">
              <a href="#">
