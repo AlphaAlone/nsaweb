@@ -34,10 +34,17 @@
             </div>
         </div>
         </div>
+<<<<<<< Updated upstream
 <div class="blog-header"> Productos</span>
     <span class ="header-caption"> Mira nuestros <span class="color"> diferentes paquetes.</span></span></div>
     <div class="blog-content">
          <div class="blogs">
+=======
+<div class="blog-header"> Blogs</span>
+    <span class ="header-caption"> My Latest <span class="color"> blog posts.</span></span></div>
+    <div class="blog-content" id="contenedor">
+         <!-- <div class="blogs">
+>>>>>>> Stashed changes
              <a href="#">
              <div class="img">
                 <img src="images/post-one.jpg" alt="blog-one">
@@ -113,8 +120,9 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo tempora dolorum fuga ratione, unde,
                     ex quaerat iste numquam nemo nihil nobis rem sint quia recusandae dignissimos quos ut rerum nam.</p>
             </div></a>
-        </div>
+        </div> -->
     </div>
+    <script src="{{asset('js/app.js')}}"></script> <!-- JavaScript controlador -->
 <!-- </div> -->
 <!--blog end-->
 @endsection
