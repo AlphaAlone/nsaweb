@@ -34,17 +34,11 @@
             </div>
         </div>
         </div>
-<<<<<<< Updated upstream
-<div class="blog-header"> Productos</span>
-    <span class ="header-caption"> Mira nuestros <span class="color"> diferentes paquetes.</span></span></div>
-    <div class="blog-content">
-         <div class="blogs">
-=======
+
 <div class="blog-header"> Blogs</span>
     <span class ="header-caption"> My Latest <span class="color"> blog posts.</span></span></div>
     <div class="blog-content" id="contenedor">
          <!-- <div class="blogs">
->>>>>>> Stashed changes
              <a href="#">
              <div class="img">
                 <img src="images/post-one.jpg" alt="blog-one">
